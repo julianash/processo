@@ -12,6 +12,10 @@ Este repositório contém a versão publicada em HTML do diagrama BPMN do proces
 O diagrama pode ser visualizado neste link:  
 [**Clique aqui para acessar**](https://julianash.github.io/processo/)  
 
+## 📂 Produtos de Trabalho
+Acesse a lista completa dos produtos de trabalho deste processo:  
+[**Produtos de Trabalho – Desenvolver sistema de software**](https://julianash.github.io/processo/produtos.html)
+
 ## 📂 Estrutura de arquivos
 - `index.html` – Página inicial do diagrama.
 - `/css` – Arquivos de estilo.
